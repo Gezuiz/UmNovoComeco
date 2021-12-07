@@ -1,0 +1,1791 @@
+﻿Log file open, 12/06/21 14:21:15
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UmNovoComeco
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.861901
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.06-17.21.17:006][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.06-17.21.17:006][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:007][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.06-17.21.17:030][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.06-17.21.17:031][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.06-17.21.17:031][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.06-17.21.17:031][  0]LogHAL: Display: Platform has ~ 8 GB [8427245568 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.06-17.21.17:031][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.06-17.21.17:031][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Scalability.ini]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.06-17.21.17:032][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.06-17.21.17:033][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.06-17.21.17:033][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.06-17.21.17:033][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.06-17.21.17:033][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Engine.ini]
+[2021.12.06-17.21.17:033][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Config/Windows/Editor.ini]
+[2021.12.06-17.21.17:035][  0]LogInit: Computer: DESKTOP-OG13013
+[2021.12.06-17.21.17:035][  0]LogInit: User: lucas
+[2021.12.06-17.21.17:035][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.06-17.21.17:035][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.06-17.21.17:035][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2021.12.06-17.21.17:035][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.06-17.21.17:035][  0]LogMemory: Process Physical Memory: 136.30 MB used, 136.30 MB peak
+[2021.12.06-17.21.17:035][  0]LogMemory: Process Virtual Memory: 118.70 MB used, 118.70 MB peak
+[2021.12.06-17.21.17:035][  0]LogMemory: Physical Memory: 7643.60 MB used,  393.25 MB free, 8036.85 MB total
+[2021.12.06-17.21.17:035][  0]LogMemory: Virtual Memory: 134206256.00 MB used,  11471.23 MB free, 134217728.00 MB total
+[2021.12.06-17.21.17:045][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.06-17.21.17:584][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.06-17.21.17:586][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.12.06-17.21.17:586][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.12.06-17.21.20:587][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.06-17.21.20:621][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.06-17.21.20:675][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.06-17.21.20:675][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.06-17.21.24:584][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.06-17.21.24:584][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.06-17.21.24:584][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.06-17.21.24:584][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.06-17.21.25:463][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2021.12.06-17.21.25:463][  0]LogD3D11RHI:       3962/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.12.06-17.21.25:580][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.12.06-17.21.25:580][  0]LogD3D11RHI:       128/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.12.06-17.21.25:587][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.06-17.21.25:587][  0]LogD3D11RHI:       0/0/4018 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.06-17.21.25:587][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.06-17.21.25:603][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.06-17.21.25:603][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.06-17.21.25:603][  0]LogWindows: EnumDisplayDevices:
+[2021.12.06-17.21.25:603][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2021.12.06-17.21.25:604][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.12.06-17.21.25:604][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.12.06-17.21.25:604][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2021.12.06-17.21.25:604][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2021.12.06-17.21.25:604][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2021.12.06-17.21.25:604][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.12.06-17.21.25:604][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.12.06-17.21.25:604][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2021.12.06-17.21.25:714][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.06-17.21.25:714][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.06-17.21.25:714][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.06-17.21.25:764][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.06-17.21.25:766][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.06-17.21.26:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.06-17.21.26:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.06-17.21.26:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.06-17.21.26:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.06-17.21.26:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.06-17.21.26:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.06-17.21.26:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.06-17.21.26:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.06-17.21.26:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.06-17.21.26:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.06-17.21.26:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.06-17.21.26:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.06-17.21.26:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.06-17.21.26:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.06-17.21.26:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.06-17.21.26:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.06-17.21.26:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.06-17.21.26:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.06-17.21.26:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.06-17.21.26:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.06-17.21.26:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.06-17.21.26:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.06-17.21.26:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.06-17.21.26:700][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.06-17.21.26:781][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.06-17.21.27:048][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.06-17.21.27:048][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Intermediate/Shaders/WorkingDirectory/77972/).
+[2021.12.06-17.21.27:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lucas/AppData/Local/Temp/UnrealShaderWorkingDir/D13700C948CE662D072746BE1FAF3855/'.
+[2021.12.06-17.21.27:049][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.06-17.21.27:049][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.06-17.21.31:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.06-17.21.31:468][  0]LogDerivedDataCache: Loaded boot cache 0.15s 77MB C:/Users/lucas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.06-17.21.31:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lucas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.12.06-17.21.31:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.06-17.21.31:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.06-17.21.31:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.06-17.21.31:469][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.06-17.21.31:496][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.06-17.21.31:496][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.06-17.21.31:497][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.06-17.21.31:525][  0]LogDerivedDataCache: Speed tests for C:/Users/lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.12.06-17.21.31:525][  0]LogDerivedDataCache: Display: Performance to C:/Users/lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=87.16MBs, RandomWriteSpeed=56.86MBs. Assigned SpeedClass 'Local'
+[2021.12.06-17.21.31:527][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lucas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.06-17.21.31:527][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.06-17.21.31:527][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.06-17.21.31:596][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.06-17.21.31:613][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.06-17.21.31:662][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2021.12.06-17.21.32:027][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.06-17.21.32:027][  0]LogInit: Active device profile: [000002DAFAC6F100][000002DAF8D38D00 49] Windows
+[2021.12.06-17.21.32:027][  0]LogInit: Profiles: [000002DAFAC6F100][000002DAF8D38D00 49] Windows, [000002DAFAC79100][000002DAF8D40E80 49] WindowsNoEditor, [000002DAFAC6D100][000002DAF8D45000 49] WindowsServer, [000002DAFAC7AA00][000002DAF8D49180 49] WindowsClient, [000002DAFAC6E900][000002DAF8D4D300 49] IOS, [000002DAFAC79900][000002DAEE61F480 49] iPadAir, [000002DAFAC6D800][000002DAEE623600 49] iPadAir2, [000002DAFAC38500][000002DAEE627840 49] IPadPro, [000002DAFAC38600][000002DAF8D3D880 49] iPadAir3, [000002DAFAC6F200][000002DAEE62B9C0 49] iPadAir4, [000002DAFAC3AE00][000002DAEE633B40 49] iPadMini2, [000002DAFAC6D000][000002DAEE637CC0 49] iPadMini3, [000002DAFAC38700][000002DAEE63A180 49] iPadMini4, [000002DAFAC6EB00][000002DAEE63E300 49] iPadMini5, [000002DAFAC2BD00][000002DAEE6465C0 49] iPhone6, [000002DAFAC2BE00][000002DAEE642600 49] iPodTouch6, [000002DAFAC3AF00][000002DAEE64E8C0 49] iPhone7, [000002DAFAC3A800][000002DAEE64A900 49] iPodTouch7, [000002DAFAC29500][000002DAEE652A80 49] iPhone5S, [000002DAFAC3A100][000002DAEE656C00 49] iPhone6Plus, [000002DAFAC2A500][000002DAF9682D80 49] iPhone6S, [000002DAFAC38A00][000002DAF9686F00 49] iPhone6SPlus, [000002DAFAC29400][000002DAF968B080 49] iPhone7Plus, [000002DAFAC39300][000002DAF968F200 49] iPhoneSE, [000002DAFAC2A700][000002DAF9693380 49] iPhone8, [000002DAFAC39B00][000002DAF9697500 49] iPhone8Plus, [000002DAFAC29900][000002DAF969B680 49] iPhoneX, [000002DAFAC39F00][000002DAEE62F7C0 49] iPhoneXS, [000002DAFAC28400][000002DAF969F900 49] iPhoneXSMax, [000002DAFAC3AC00][000002DAF96A3A40 49] iPhoneXR, [000002DAFAC29300][000002DAF96A7B80 49] iPhone11, [000002DAFAC3A900][000002DAF96AFD00 49] iPhone11Pro, [000002DAFAC29600][000002DAF96B21C0 49] iPhone11ProMax, [000002DAFAC3B000][000002DAF96B6340 49] iPhoneSE2, [000002DAFAC2A800][000002DAF96BA4C0 49] iPhone12Mini, [000002DAFAC3B300][000002DAF96BE640 49] iPhone12, [000002DAFAC28B00][000002DAF96C27C0 49] iPhone12Pro, [000002DAFAC38D00][000002DAF96C6940 49] iPhone12ProMax, [000002DAFAC2A900][000002DAF96CAAC0 49] iPadPro105, [000002DAFAC3B500][000002DAF96CEC40 49] iPadPro129, [000002DAFAC29E00][000002DAF96D2DC0 49] iPadPro97, [000002DAFAC3B400][000002DAF96D6F40 49] iPadPro2_129, [000002DAFAC2AD00][000002DAF96DB0C0 49] iPad5, [000002DAFAC38C00][000002DAF96DF240 49] iPad6, [000002DAFAC28600][000002DAF96E33C0 49] iPad7, [000002DAFAC3A500][000002DAF96E7540 49] iPad8, [000002DAFAC2AE00][000002DAF96EB6C0 49] iPadPro11, [000002DAFAC3BB00][000002DAF96AB800 49] iPadPro2_11, [000002DAFAC29100][000002DAF96EF940 49] iPadPro3_129, [000002DAFAC39100][000002DAF96F3A80 49] iPadPro4_129, [000002DAFAC28D00][000002DAF96F7BC0 49] AppleTV, [000002DAFAC3AD00][000002DAF96FFD40 49] AppleTV4K, [000002DAFAC29B00][000002DAF9702200 49] TVOS, [000002DAFAC38300][000002DAF9706380 49] Mac, [000002DAFAC28100][000002DAF970A500 49] MacClient, [000002DAFAC3B100][000002DAF970E680 49] MacNoEditor, [000002DAFAD08F00][000002DAF9712800 49] MacServer, [000002DAFAC7B400][000002DAF9716980 49] Linux, [000002DAFAD08800][000002DAF971AB00 49] LinuxAArch64, [000002DAFAC7AC00][000002DAF971EC80 49] LinuxNoEditor, [000002DAFAD08A00][000002DAF9722E00 49] LinuxAArch64NoEditor, [000002DAFAC79200][000002DAF9726F80 49] LinuxClient, [000002DAFAD08600][000002DAF972B100 49] LinuxAArch64Client, [000002DAFAC7B500][000002DAF972F280 49] LinuxServer, [000002DAFAD09000][000002DAF9733400 49] LinuxAArch64Server, [000002DAFAC7B800][000002DAF9737580 49] Android, [000002DAFAD09500][000002DAF973B700 49] Android_Low, [000002DAFAC7A900][000002DAF973F880 49] Android_Mid, [000002DAFAD08400][000002DAF96FB9C0 49] Android_High, [000002DAFAC79A00][000002DAF9743B00 49] Android_Default, [000002DAFAC29200][000002DAF9747C40 49] Android_Adreno4xx, [000002DAFAC79E00][000002DAF974E100 49] Android_Adreno5xx_Low, [000002DAFAC2B600][000002DAF9752280 49] Android_Adreno5xx, [000002DAFAC7BF00][000002DAF9756400 49] Android_Adreno6xx, [000002DAFAC28E00][000002DAF975A580 49] Android_Adreno6xx_Vulkan, [000002DAFAC78F00][000002DAF975E700 49] Android_Mali_T6xx, [000002DAFAC2A300][000002DAF9762880 49] Android_Mali_T7xx, [000002DAFAC7AB00][000002DAF9766A00 49] Android_Mali_T8xx, [000002DAFAC28700][000002DAF976AB80 49] Android_Mali_G71, [000002DAFAC78200][000002DAF976ED00 49] Android_Mali_G72, [000002DAFAC29C00][000002DAF9772E80 49] Android_Mali_G72_Vulkan, [000002DAFAC78C00][000002DAF9777000 49] Android_Mali_G76, [000002DAFAC29D00][000002DAF977B180 49] Android_Mali_G76_Vulkan, [000002DAFAC7A700][000002DAF977F300 49] Android_Mali_G77, [000002DAFAC28F00][000002DAF9783480 49] Android_Mali_G77_Vulkan, [000002DAFAC7B600][000002DAF9787600 49] Android_Vulkan_SM5, [000002DAFAC29800][000002DAF978B780 49] Android_PowerVR_G6xxx, [000002DAFAC78B00][000002DAF978F900 49] Android_PowerVR_GT7xxx, [000002DAFAC2A100][000002DAF974BA40 49] Android_PowerVR_GE8xxx, [000002DAFAC7A200][000002DAF9793B80 49] Android_PowerVR_GM9xxx, [000002DAFAC2AB00][000002DAF9797CC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002DAFAC78600][000002DAF979E180 49] Android_TegraK1, [000002DAFAC2A200][000002DAF97A2300 49] Android_Unknown_Vulkan, [000002DAFAC7B000][000002DAF97A6480 49] Lumin, [000002DAFAC2BC00][000002DAF97AA600 49] Lumin_Desktop, [000002DAFAC7BB00][000002DAF97AE780 49] HoloLens, 
+[2021.12.06-17.21.32:341][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.06-17.21.32:341][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.06-17.21.32:341][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.06-17.21.32:341][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.06-17.21.32:342][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.06-17.21.32:413][  0]LogNetVersion: UmNovoComeco 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3770099743)
+[2021.12.06-17.21.34:245][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.06-17.21.34:352][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.103845 seconds
+[2021.12.06-17.21.34:361][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.12.06-17.21.34:361][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.12.06-17.21.34:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.06-17.21.35:757][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.06-17.21.35:765][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.06-17.21.36:050][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.36:050][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.36:070][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.36:082][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.36:102][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.36:113][  0]LogUProjectInfo: Found projects:
+[2021.12.06-17.21.36:940][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.06-17.21.36:985][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.06-17.21.36:985][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.06-17.21.37:174][  0]LogCollectionManager: Loaded 0 collections in 0.003120 seconds
+[2021.12.06-17.21.37:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Collections/' took 0.00s
+[2021.12.06-17.21.37:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/Developers/lucas/Collections/' took 0.00s
+[2021.12.06-17.21.37:260][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/Collections/' took 0.00s
+[2021.12.06-17.21.37:260][  0]LogOcInput: OculusInput pre-init called
+[2021.12.06-17.21.37:291][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.12.06-17.21.37:291][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.12.06-17.21.37:573][  0]LogEngine: Initializing Engine...
+[2021.12.06-17.21.37:583][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.06-17.21.37:584][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.06-17.21.37:593][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2021.12.06-17.21.38:000][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.06-17.21.38:087][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.06-17.21.38:105][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.06-17.21.38:117][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.06-17.21.38:118][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.21.38:119][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.21.38:119][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.21.38:125][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.21.38:126][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.21.38:170][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.21.38:170][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.21.38:326][  0]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.21.38:335][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.21.38:368][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.21.38:369][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.21.38:372][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.21.38:373][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.21.38:373][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.21.38:375][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.21.38:375][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.21.38:375][  0]LogInit: FAudioDevice initialized.
+[2021.12.06-17.21.38:376][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.06-17.21.38:378][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.06-17.21.38:470][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/lucas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.12.06-17.21.38:471][  0]LogInit: Texture streaming: Enabled
+[2021.12.06-17.21.38:509][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.12.06-17.21.38:520][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.06-17.21.38:521][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.06-17.21.38:534][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.06-17.21.38:624][  0]LogInit: Transaction tracking system initialized
+[2021.12.06-17.21.38:788][  0]BlueprintLog: New page: Editor Load
+[2021.12.06-17.21.39:094][  0]LocalizationService: Localization service is disabled
+[2021.12.06-17.21.39:184][  0]TimingProfiler: Initialize
+[2021.12.06-17.21.39:187][  0]TimingProfiler: OnSessionChanged
+[2021.12.06-17.21.39:188][  0]LoadingProfiler: Initialize
+[2021.12.06-17.21.39:188][  0]LoadingProfiler: OnSessionChanged
+[2021.12.06-17.21.39:189][  0]NetworkingProfiler: Initialize
+[2021.12.06-17.21.39:189][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.06-17.21.39:189][  0]MemoryProfiler: Initialize
+[2021.12.06-17.21.39:189][  0]MemoryProfiler: OnSessionChanged
+[2021.12.06-17.21.39:862][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.06-17.21.39:862][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.06-17.21.40:372][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/' took 0.01s
+[2021.12.06-17.21.40:594][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.06-17.21.40:614][  0]SourceControl: Source control is disabled
+[2021.12.06-17.21.40:615][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.142
+[2021.12.06-17.21.40:618][  0]Cmd: MAP LOAD FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Maps/UmNovoComecoPequeno.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.06-17.21.40:627][  0]LightingResults: New page: Lighting Build
+[2021.12.06-17.21.40:636][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.21.40:638][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.21.40:641][  0]MapCheck: New page: Map Check
+[2021.12.06-17.21.40:641][  0]LightingResults: New page: Lighting Build
+[2021.12.06-17.21.40:669][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.12.06-17.21.44:506][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.21.44:508][  0]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.21.44:580][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.06-17.21.44:616][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.12.06-17.21.44:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.06-17.21.44:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.952ms to complete.
+[2021.12.06-17.21.44:624][  0]LogFileHelpers: Loading map 'UmNovoComecoPequeno' took 4.008
+[2021.12.06-17.21.44:695][  0]LogUnrealEdMisc: Total Editor Startup Time, took 32.223
+[2021.12.06-17.21.45:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.21.45:019][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.21.45:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.21.45:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.21.46:767][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0148 seconds. Added 3601 classes and 859 folders.
+[2021.12.06-17.21.50:452][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.12.06-17.21.50:499][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-17.21.50:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-17.21.50:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000584
+[2021.12.06-17.21.50:520][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.06-17.21.50:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.06-17.21.50:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000588
+[2021.12.06-17.21.50:531][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.06-17.21.50:531][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:531][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.06-17.21.50:531][  0]LogPakFile: OnPakFileMounted2Time == 0.000592
+[2021.12.06-17.21.50:541][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-17.21.50:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-17.21.50:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000597
+[2021.12.06-17.21.50:555][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.06-17.21.50:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.06-17.21.50:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000609
+[2021.12.06-17.21.50:565][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.06-17.21.50:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:565][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.06-17.21.50:565][  0]LogPakFile: OnPakFileMounted2Time == 0.000613
+[2021.12.06-17.21.50:575][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.06-17.21.50:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.06-17.21.50:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000617
+[2021.12.06-17.21.50:586][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.06-17.21.50:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.06-17.21.50:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000622
+[2021.12.06-17.21.50:601][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-17.21.50:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-17.21.50:601][  0]LogPakFile: OnPakFileMounted2Time == 0.000626
+[2021.12.06-17.21.50:612][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.06-17.21.50:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.06-17.21.50:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000633
+[2021.12.06-17.21.50:623][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.06-17.21.50:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.06-17.21.50:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000639
+[2021.12.06-17.21.50:635][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-17.21.50:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-17.21.50:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000643
+[2021.12.06-17.21.50:645][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-17.21.50:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-17.21.50:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000659
+[2021.12.06-17.21.50:654][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-17.21.50:654][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:654][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-17.21.50:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000663
+[2021.12.06-17.21.50:664][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.06-17.21.50:664][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:664][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.06-17.21.50:664][  0]LogPakFile: OnPakFileMounted2Time == 0.000669
+[2021.12.06-17.21.50:676][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-17.21.50:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-17.21.50:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000674
+[2021.12.06-17.21.50:687][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.06-17.21.50:687][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:687][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.06-17.21.50:687][  0]LogPakFile: OnPakFileMounted2Time == 0.000678
+[2021.12.06-17.21.50:697][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-17.21.50:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-17.21.50:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000682
+[2021.12.06-17.21.50:704][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-17.21.50:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-17.21.50:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000685
+[2021.12.06-17.21.50:717][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-17.21.50:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-17.21.50:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000689
+[2021.12.06-17.21.50:725][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.06-17.21.50:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.06-17.21.50:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000693
+[2021.12.06-17.21.50:738][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.06-17.21.50:738][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:738][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.06-17.21.50:738][  0]LogPakFile: OnPakFileMounted2Time == 0.000697
+[2021.12.06-17.21.50:750][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.06-17.21.50:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.06-17.21.50:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000701
+[2021.12.06-17.21.50:759][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.06-17.21.50:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.06-17.21.50:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000705
+[2021.12.06-17.21.50:768][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.06-17.21.50:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.06-17.21.50:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000709
+[2021.12.06-17.21.50:782][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.06-17.21.50:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.06-17.21.50:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.06-17.21.50:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000713
+[2021.12.06-17.21.51:135][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.12.06-17.21.51:146][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.12.06-17.21.51:687][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.12.06-17.21.51:688][  0]LogInput: Warning: Action TriggerClick uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.06-17.21.51:688][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.12.06-17.21.51:688][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.06-17.21.51:689][  0]LogLoad: (Engine Initialization) Total time: 39.22 seconds
+[2021.12.06-17.21.51:689][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.06-17.21.51:690][  0]LogInit: First time updating LLM stats...
+[2021.12.06-17.21.51:806][  0]LogAssetRegistry: Asset discovery search completed in 20.1451 seconds
+[2021.12.06-17.21.51:812][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.12.06-17.21.52:073][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.06-17.21.52:135][  0]LogSlate: Took 0.008124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.06-17.21.52:150][  0]LogSlate: Took 0.010014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.06-17.21.52:175][  0]LogSlate: Took 0.009581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.06-17.21.52:432][  0]LogRenderer: Reallocating scene render targets to support 636x408 Format 10 NumSamples 1 (Frame:1).
+[2021.12.06-17.21.52:432][  0]LogSlate: Took 0.007175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.06-17.21.57:649][ 89]LogRenderer: Reallocating scene render targets to support 1080x528 Format 10 NumSamples 1 (Frame:74).
+[2021.12.06-17.22.42:469][697]LogSlate: Took 0.001463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.06-17.22.42:496][697]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucas\Desktop\blender saves\Ambiente\Ambiente_tex_Autumn.png)
+[2021.12.06-17.22.42:581][697]LogTexture: Display: Building textures: Ambiente_tex_Autumn (AutoDXT, 2048X2048)
+[2021.12.06-17.22.42:925][697]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\lucas\Desktop\blender saves\Ambiente\Ambiente_tex_Winter.png)
+[2021.12.06-17.22.43:006][697]LogTexture: Display: Building textures: Ambiente_tex_Winter (AutoDXT, 2048X2048)
+[2021.12.06-17.23.08:243][593]LogContentBrowser: Attempting asset rename: Material_001 -> Material_Primavera
+[2021.12.06-17.23.08:411][593]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Material_Primavera4E8811814FAC5732FE7AD087E640D1A2.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/Geometry/Meshes/Ambiente/Material_Primavera.uasset'
+[2021.12.06-17.23.08:534][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.12.06-17.23.08:565][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.06-17.23.08:571][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.12.06-17.23.08:635][593]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente_Ambiente007647CA40887DE745D0AFAB49A53819.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/Geometry/Meshes/Ambiente/Ambiente_Ambiente.uasset'
+[2021.12.06-17.23.08:704][593]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.06-17.23.08:705][593]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Ambiente/Material_Primavera.Material_Primavera
+[2021.12.06-17.23.08:705][593]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Ambiente/Ambiente_Ambiente.Ambiente_Ambiente
+[2021.12.06-17.23.10:584][704]LogContentBrowser: Deferred new asset file creation: Material_Primavera1
+[2021.12.06-17.23.10:595][704]LogContentBrowser: Creating deferred item: Material_Primavera1
+[2021.12.06-17.23.19:595][241]LogContentBrowser: Attempting asset rename: Material_Primavera1 -> Material_Outono
+[2021.12.06-17.23.19:602][241]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.19:647][241]LogContentBrowser: End creating deferred item Material_Primavera1
+[2021.12.06-17.23.19:672][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.12.06-17.23.19:672][244]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.23.19:673][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.12.06-17.23.24:702][531]LogContentBrowser: Deferred new asset file creation: Material_Primavera1
+[2021.12.06-17.23.24:712][531]LogContentBrowser: Creating deferred item: Material_Primavera1
+[2021.12.06-17.23.32:917][ 22]LogContentBrowser: Attempting asset rename: Material_Primavera1 -> Material_Inverno
+[2021.12.06-17.23.32:919][ 22]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.23.32:926][ 22]LogContentBrowser: End creating deferred item Material_Primavera1
+[2021.12.06-17.23.32:936][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.12.06-17.23.32:936][ 24]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.23.32:936][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.12.06-17.23.35:169][148]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Ambiente/Material_Outono.Material_Outono
+[2021.12.06-17.23.35:179][148]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.35:232][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.12.06-17.23.36:127][148]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.36:144][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.12.06-17.23.36:149][148]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.36:161][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.12.06-17.23.36:181][148]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.06-17.23.36:234][148]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.36:273][148]LogSlate: Took 0.013100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.12.06-17.23.36:353][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.12.06-17.23.36:621][149]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.12.06-17.23.37:253][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.12.06-17.23.37:552][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.12.06-17.23.37:577][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.12.06-17.23.37:646][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.12.06-17.23.38:591][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.12.06-17.23.39:095][272]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.12.06-17.23.39:282][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.12.06-17.23.39:382][286]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.12.06-17.23.39:981][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.12.06-17.23.40:020][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.06-17.23.40:023][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.06-17.23.40:055][319]LogSlate: Took 0.015550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.12.06-17.23.40:199][328]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.12.06-17.23.40:335][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.12.06-17.23.40:749][347]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.12.06-17.23.40:899][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.06-17.23.42:040][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.12.06-17.23.42:700][431]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.06-17.23.43:154][449]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.43:164][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2021.12.06-17.23.43:174][449]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.06-17.23.43:185][449]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.43:211][449]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.43:393][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.12.06-17.23.43:487][460]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2021.12.06-17.23.44:496][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.12.06-17.23.44:613][523]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.12.06-17.23.44:664][526]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2021.12.06-17.23.44:814][535]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.12.06-17.23.45:417][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.12.06-17.23.45:520][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.12.06-17.23.45:869][594]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.12.06-17.23.45:972][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2021.12.06-17.23.46:124][609]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.12.06-17.23.46:734][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.12.06-17.23.46:752][644]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.12.06-17.23.47:182][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.12.06-17.23.47:523][686]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.12.06-17.23.47:633][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.12.06-17.23.47:968][709]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.12.06-17.23.48:026][711]LogMaterialEditor: Applying material Material_Outono
+[2021.12.06-17.23.51:432][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.12.06-17.23.51:432][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.06-17.23.51:442][711]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.51:475][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.12.06-17.23.51:475][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.23.51:475][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.06-17.23.51:475][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.12.06-17.23.51:486][711]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.51:521][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.12.06-17.23.51:532][711]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.06-17.23.52:099][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.12.06-17.23.52:659][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.12.06-17.23.52:659][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.12.06-17.23.52:659][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.12.06-17.23.52:659][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.12.06-17.23.53:218][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.12.06-17.23.53:218][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.12.06-17.23.53:218][711]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.12.06-17.23.53:218][711]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.12.06-17.23.53:218][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.12.06-17.23.53:375][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.12.06-17.23.53:388][711]TextureStreamingBuild: Display: Compiling optional shaders took 1.863 seconds.
+[2021.12.06-17.23.53:412][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.06-17.23.53:793][711]LogMaterial: Display: Missing cached shader map for material Material_Outono, compiling. 
+[2021.12.06-17.23.54:797][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.12.06-17.23.55:713][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.12.06-17.23.56:807][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.06-17.23.57:633][921]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.12.06-17.23.59:044][996]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.12.06-17.23.59:044][996]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.06-17.23.59:087][998]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.06-17.23.59:274][  9]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.12.06-17.24.00:466][ 54]LogMaterialEditor: Saving and Compiling material Material_Outono
+[2021.12.06-17.24.00:520][ 54]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Material_Outono8394552C4552ACE0579C5B92DF3D6282.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/Geometry/Meshes/Ambiente/Material_Outono.uasset'
+[2021.12.06-17.24.00:540][ 54]AssetCheck: New page: Asset Save: Material_Outono
+[2021.12.06-17.24.00:540][ 54]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Ambiente/Material_Outono.Material_Outono
+[2021.12.06-17.24.02:750][178]LogSlate: Window 'Material_Outono' being destroyed
+[2021.12.06-17.24.02:756][178]LogSlate: Window 'Material_Outono' being destroyed
+[2021.12.06-17.24.02:780][178]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.24.02:782][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.24.38:813][261]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Ambiente/Material_Inverno.Material_Inverno
+[2021.12.06-17.24.38:815][261]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.38:954][261]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.38:963][261]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.38:975][261]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.12.06-17.24.38:975][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.24.38:975][261]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.06-17.24.38:975][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.12.06-17.24.38:985][261]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.06-17.24.39:008][261]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.40:462][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.12.06-17.24.40:834][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.12.06-17.24.40:966][361]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.12.06-17.24.40:983][362]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.12.06-17.24.41:561][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.12.06-17.24.41:746][397]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.12.06-17.24.41:981][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.12.06-17.24.42:042][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.12.06-17.24.42:150][413]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.12.06-17.24.42:300][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.12.06-17.24.42:686][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.12.06-17.24.42:730][437]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.12.06-17.24.42:748][438]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.06-17.24.42:807][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.06-17.24.43:782][484]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.12.06-17.24.44:539][522]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.12.06-17.24.46:531][607]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.46:548][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.12.06-17.24.46:548][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.24.46:548][607]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.06-17.24.46:548][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.12.06-17.24.46:548][607]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.12.06-17.24.46:558][607]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.46:573][607]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.47:419][650]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.12.06-17.24.47:802][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.12.06-17.24.48:018][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.12.06-17.24.48:187][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.12.06-17.24.48:375][701]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.12.06-17.24.48:636][715]LogMaterialEditor: Applying material Material_Inverno
+[2021.12.06-17.24.49:688][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2021.12.06-17.24.49:688][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.12.06-17.24.49:688][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2021.12.06-17.24.49:688][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.12.06-17.24.49:689][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.12.06-17.24.49:689][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.12.06-17.24.49:709][715]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.49:753][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.12.06-17.24.49:783][715]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.49:840][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.06-17.24.49:851][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.12.06-17.24.50:418][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2021.12.06-17.24.50:418][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2021.12.06-17.24.50:418][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2021.12.06-17.24.50:977][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2021.12.06-17.24.50:977][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2021.12.06-17.24.50:977][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.12.06-17.24.51:537][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.12.06-17.24.52:095][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.12.06-17.24.52:095][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.12.06-17.24.52:545][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2021.12.06-17.24.52:545][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.12.06-17.24.52:545][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.12.06-17.24.52:545][715]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.12.06-17.24.52:545][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.12.06-17.24.52:546][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.12.06-17.24.52:548][715]TextureStreamingBuild: Display: Compiling optional shaders took 2.704 seconds.
+[2021.12.06-17.24.52:560][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.12.06-17.24.52:622][715]LogMaterial: Display: Missing cached shader map for material Material_Inverno, compiling. 
+[2021.12.06-17.24.54:718][821]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.12.06-17.24.55:085][840]LogSlate: Window 'Material_Inverno' being destroyed
+[2021.12.06-17.24.55:118][840]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.24.55:118][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.24.55:899][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ambiente_Ambiente)
+[2021.12.06-17.24.56:279][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.12.06-17.24.56:636][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.12.06-17.24.59:658][ 72]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.12.06-17.25.00:023][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.12.06-17.25.00:595][103]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.12.06-17.25.01:007][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.12.06-17.26.06:762][863]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.06-17.26.06:769][863]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.06-17.26.06:801][863]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.06-17.26.12:631][188]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ambiente
+[2021.12.06-17.26.12:672][188]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.06-17.26.14:447][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.26.15:487][292]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 126 classes and 0 folders.
+[2021.12.06-17.26.18:093][341]LogSlate: Took 0.009098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.06-17.26.31:907][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.26.31:934][ 62]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente745F1B4A436FE9CA7B97DC86ABD02026.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.26.31:968][ 62]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.26.31:968][ 62]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.26.32:323][ 80]BlueprintLog: New page: Compile Ambiente
+[2021.12.06-17.26.32:415][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.12.06-17.26.41:665][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.12.06-17.26.43:897][602]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.06-17.26.43:971][602]LogSlate: Window 'Ambiente' being destroyed
+[2021.12.06-17.26.43:980][602]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.26.43:980][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.26.44:030][602]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.26.45:820][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.06-17.26.46:039][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.12.06-17.26.46:067][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.12.06-17.26.46:085][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.12.06-17.26.50:187][603]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.06-17.26.51:132][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.12.06-17.26.53:045][654]Cmd: TRANSACTION UNDO
+[2021.12.06-17.26.53:045][654]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2021.12.06-17.26.58:947][923]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.12.06-17.26.59:866][923]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.12.06-17.26.59:883][923]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.12.06-17.26.59:904][923]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.12.06-17.27.05:198][234]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ambiente
+[2021.12.06-17.27.05:218][234]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.12.06-17.27.06:892][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.27.15:386][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.27.15:411][748]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente28B9D0CA40C0BBF2860152AAAC66143B.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.27.15:430][748]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.27.15:430][748]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.27.15:889][774]BlueprintLog: New page: Compile Ambiente
+[2021.12.06-17.27.15:922][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.12.06-17.27.37:225][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.27.37:241][996]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente1797CA8D42CF85171023A2987B66D98D.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.27.37:258][996]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.27.37:259][996]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.27.44:419][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ambiente_Ambiente)
+[2021.12.06-17.27.46:255][494]Cmd: DELETE
+[2021.12.06-17.27.46:258][494]Cmd: ACTOR DELETE
+[2021.12.06-17.27.46:284][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.12.06-17.27.46:315][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.12.06-17.27.46:318][494]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2021.12.06-17.28.16:075][253]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.28.16:095][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.28.16:113][253]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:28:16 PM)
+[2021.12.06-17.28.16:135][253]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.06-17.28.16:145][253]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.06-17.28.16:148][253]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.28.16:176][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027492s)
+[2021.12.06-17.28.16:185][253]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.28.16:192][253]LogPlayLevel: PIE: World Init took: (0.015530s)
+[2021.12.06-17.28.16:192][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.043718s)
+[2021.12.06-17.28.16:214][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.12.06-17.28.16:218][253]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.06-17.28.16:221][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.28.16:221][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.28.16:221][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.28.16:221][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.28.16:222][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.28.16:222][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.28.16:222][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.28.16:223][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.28.16:227][253]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.28.16:227][253]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.28.16:237][253]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.28.16:237][253]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.28.16:291][253]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.28.16:294][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.28.16:295][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.28.16:296][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.28.16:296][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.28.16:297][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.28.16:297][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.28.16:306][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.28.16:306][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.28.16:306][253]LogInit: FAudioDevice initialized.
+[2021.12.06-17.28.16:306][253]LogAudio: Display: Audio Device (ID: 2) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.28.16:376][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.28.16:380][253]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.28.16:391][253]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.28.16
+[2021.12.06-17.28.16:395][253]LogWorld: Bringing up level for play took: 0.003701
+[2021.12.06-17.28.16:401][253]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.06-17.28.16:430][253]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2021.12.06-17.28.16:660][253]PIE: Server logged in
+[2021.12.06-17.28.16:664][253]PIE: Play in editor total start time 0.582 seconds.
+[2021.12.06-17.28.16:737][254]LogRenderer: Reallocating scene render targets to support 1284x720 Format 10 NumSamples 1 (Frame:1).
+[2021.12.06-17.28.20:308][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.28.20:308][422]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.28.20:309][422]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.28.20:313][422]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.28.20:317][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.28.20:330][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.28.20:343][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.28.20:366][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.28.20:370][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.28.20:373][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.28.20:435][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.12.06-17.28.20:461][423]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.06-17.28.35:537][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.28.35:550][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.28.35:550][308]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:28:35 PM)
+[2021.12.06-17.28.35:550][308]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.28.35:555][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005135s)
+[2021.12.06-17.28.35:556][308]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.28.35:557][308]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2021.12.06-17.28.35:557][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.006952s)
+[2021.12.06-17.28.35:587][308]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.06-17.28.35:589][308]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.28.35:589][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.28.35:589][308]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.28.35:589][308]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.28.35:591][308]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.28.35:591][308]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.28.35:632][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.28.35:632][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.28.35:647][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.28.35:647][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.28.35:647][308]LogInit: FAudioDevice initialized.
+[2021.12.06-17.28.35:647][308]LogAudio: Display: Audio Device (ID: 3) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.28.35:711][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.28.35:711][308]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.28.35:714][308]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.28.35
+[2021.12.06-17.28.35:715][308]LogWorld: Bringing up level for play took: 0.001672
+[2021.12.06-17.28.35:715][308]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.06-17.28.35:759][308]PIE: Server logged in
+[2021.12.06-17.28.35:761][308]PIE: Play in editor total start time 0.216 seconds.
+[2021.12.06-17.28.45:813][898]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.28.45:823][898]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.28.45:824][898]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.28.45:827][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.28.45:841][898]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.28.45:854][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.28.45:880][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.28.45:881][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.28.45:881][898]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.28.45:912][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.12.06-17.28.45:937][899]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.06-17.29.01:278][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.29.01:286][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.29.01:286][795]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:29:01 PM)
+[2021.12.06-17.29.01:286][795]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.01:289][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002503s)
+[2021.12.06-17.29.01:290][795]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.29.01:290][795]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2021.12.06-17.29.01:290][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.003571s)
+[2021.12.06-17.29.01:313][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.12.06-17.29.01:314][795]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.29.01:314][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.29.01:315][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.29.01:315][795]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.29.01:315][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.29.01:317][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.29.01:317][795]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.29.01:353][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.29.01:353][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.29.01:366][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.29.01:366][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.29.01:366][795]LogInit: FAudioDevice initialized.
+[2021.12.06-17.29.01:366][795]LogAudio: Display: Audio Device (ID: 4) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.29.01:409][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.01:409][795]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.29.01:410][795]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.29.01
+[2021.12.06-17.29.01:410][795]LogWorld: Bringing up level for play took: 0.000786
+[2021.12.06-17.29.01:411][795]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.06-17.29.01:445][795]PIE: Server logged in
+[2021.12.06-17.29.01:447][795]PIE: Play in editor total start time 0.164 seconds.
+[2021.12.06-17.29.08:041][184]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.29.08:052][184]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.08:052][184]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.29.08:055][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.08:063][184]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.29.08:078][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.08:102][184]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.29.08:102][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.08:103][184]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.08:146][184]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.12.06-17.29.08:171][185]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.06-17.29.19:075][821]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.29.19:083][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.29.19:083][821]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:29:19 PM)
+[2021.12.06-17.29.19:083][821]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.19:086][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003282s)
+[2021.12.06-17.29.19:087][821]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.29.19:087][821]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2021.12.06-17.29.19:087][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.004374s)
+[2021.12.06-17.29.19:111][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.12.06-17.29.19:112][821]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.29.19:112][821]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.29.19:112][821]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.29.19:113][821]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.29.19:113][821]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.29.19:116][821]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.29.19:116][821]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.29.19:160][821]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.29.19:160][821]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.29.19:160][821]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.29.19:160][821]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.29.19:160][821]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.29.19:161][821]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.29.19:161][821]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.29.19:174][821]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.29.19:174][821]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.29.19:174][821]LogInit: FAudioDevice initialized.
+[2021.12.06-17.29.19:174][821]LogAudio: Display: Audio Device (ID: 5) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.29.19:225][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.19:225][821]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.29.19:227][821]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.29.19
+[2021.12.06-17.29.19:227][821]LogWorld: Bringing up level for play took: 0.000564
+[2021.12.06-17.29.19:227][821]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.12.06-17.29.19:260][821]PIE: Server logged in
+[2021.12.06-17.29.19:262][821]PIE: Play in editor total start time 0.182 seconds.
+[2021.12.06-17.29.25:870][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.25:870][203]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.25:870][203]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.29.25:872][203]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.29.25:874][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.25:885][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.29.25:897][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.25:920][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.29.25:920][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.25:921][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.25:953][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.12.06-17.29.25:980][204]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.12.06-17.29.36:274][811]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.29.36:286][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.29.36:286][811]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:29:36 PM)
+[2021.12.06-17.29.36:286][811]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.36:289][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002746s)
+[2021.12.06-17.29.36:290][811]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.29.36:290][811]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2021.12.06-17.29.36:290][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.003731s)
+[2021.12.06-17.29.36:316][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.12.06-17.29.36:317][811]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.29.36:317][811]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.29.36:317][811]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.29.36:318][811]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.29.36:318][811]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.29.36:320][811]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.29.36:320][811]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.29.36:353][811]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.29.36:353][811]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.29.36:353][811]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.29.36:353][811]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.29.36:353][811]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.29.36:353][811]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.29.36:354][811]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.29.36:367][811]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.29.36:367][811]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.29.36:367][811]LogInit: FAudioDevice initialized.
+[2021.12.06-17.29.36:367][811]LogAudio: Display: Audio Device (ID: 6) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.29.36:425][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.36:426][811]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.29.36:427][811]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.29.36
+[2021.12.06-17.29.36:427][811]LogWorld: Bringing up level for play took: 0.000576
+[2021.12.06-17.29.36:427][811]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.06-17.29.36:459][811]PIE: Server logged in
+[2021.12.06-17.29.36:463][811]PIE: Play in editor total start time 0.18 seconds.
+[2021.12.06-17.29.43:389][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.43:389][194]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.43:390][194]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.29.43:392][194]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.29.43:394][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.43:403][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.29.43:418][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.29.43:442][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.29.43:442][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.43:443][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.29.43:493][194]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2021.12.06-17.29.43:524][195]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.06-17.29.49:725][554]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.29.49:733][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.29.49:733][554]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:29:49 PM)
+[2021.12.06-17.29.49:733][554]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.29.49:736][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2021.12.06-17.29.49:737][554]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.29.49:737][554]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2021.12.06-17.29.49:737][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.003906s)
+[2021.12.06-17.29.49:762][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.12.06-17.29.49:762][554]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.29.49:762][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.29.49:762][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.29.49:763][554]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.29.49:763][554]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.29.49:765][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.29.49:765][554]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.29.49:796][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.29.49:796][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.29.49:809][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.29.49:810][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.29.49:810][554]LogInit: FAudioDevice initialized.
+[2021.12.06-17.29.49:810][554]LogAudio: Display: Audio Device (ID: 7) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.29.49:858][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.29.49:859][554]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.29.49:860][554]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.29.49
+[2021.12.06-17.29.49:860][554]LogWorld: Bringing up level for play took: 0.000547
+[2021.12.06-17.29.49:860][554]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.06-17.29.49:890][554]PIE: Server logged in
+[2021.12.06-17.29.49:891][554]PIE: Play in editor total start time 0.162 seconds.
+[2021.12.06-17.30.02:020][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.02:020][259]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.02:020][259]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.30.02:023][259]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.30.02:024][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.02:038][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.30.02:052][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.02:077][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.30.02:077][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.02:077][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.02:130][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.12.06-17.30.02:157][260]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.06-17.30.14:261][966]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.30.14:275][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.30.14:275][966]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:30:14 PM)
+[2021.12.06-17.30.14:275][966]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.14:282][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006780s)
+[2021.12.06-17.30.14:283][966]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.30.14:283][966]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2021.12.06-17.30.14:283][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.008444s)
+[2021.12.06-17.30.14:319][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.12.06-17.30.14:320][966]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.30.14:320][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.30.14:320][966]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.30.14:320][966]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.30.14:322][966]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.30.14:322][966]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.30.14:361][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.30.14:361][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.30.14:374][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.30.14:374][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.30.14:374][966]LogInit: FAudioDevice initialized.
+[2021.12.06-17.30.14:374][966]LogAudio: Display: Audio Device (ID: 8) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.30.14:444][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.14:445][966]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.30.14:451][966]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.30.14
+[2021.12.06-17.30.14:452][966]LogWorld: Bringing up level for play took: 0.002940
+[2021.12.06-17.30.14:452][966]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.12.06-17.30.14:518][966]PIE: Server logged in
+[2021.12.06-17.30.14:520][966]PIE: Play in editor total start time 0.252 seconds.
+[2021.12.06-17.30.17:319][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.17:319][120]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.17:319][120]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.30.17:321][120]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.30.17:323][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.17:328][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.30.17:339][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.17:362][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.30.17:362][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.17:363][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.17:388][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.12.06-17.30.17:416][121]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.12.06-17.30.23:877][504]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.30.23:890][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.30.23:890][504]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:30:23 PM)
+[2021.12.06-17.30.23:891][504]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.23:896][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005326s)
+[2021.12.06-17.30.23:897][504]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.30.23:897][504]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2021.12.06-17.30.23:897][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.006773s)
+[2021.12.06-17.30.23:924][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.12.06-17.30.23:924][504]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.30.23:924][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.30.23:924][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.30.23:925][504]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.30.23:925][504]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.30.23:927][504]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.30.23:927][504]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.30.23:960][504]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.30.23:960][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.30.23:960][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.30.23:960][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.30.23:961][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.30.23:961][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.30.23:961][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.30.23:974][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.30.23:974][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.30.23:974][504]LogInit: FAudioDevice initialized.
+[2021.12.06-17.30.23:974][504]LogAudio: Display: Audio Device (ID: 9) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.30.24:028][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.24:028][504]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.30.24:032][504]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.30.24
+[2021.12.06-17.30.24:032][504]LogWorld: Bringing up level for play took: 0.000755
+[2021.12.06-17.30.24:033][504]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.12.06-17.30.24:061][504]PIE: Server logged in
+[2021.12.06-17.30.24:063][504]PIE: Play in editor total start time 0.177 seconds.
+[2021.12.06-17.30.26:392][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.26:392][618]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.26:392][618]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.30.26:397][618]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.30.26:399][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.26:411][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.30.26:420][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.26:444][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.30.26:444][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.26:444][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.26:494][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.12.06-17.30.26:520][619]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.12.06-17.30.28:706][747]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.30.28:714][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.30.28:714][747]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:30:28 PM)
+[2021.12.06-17.30.28:714][747]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.28:717][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002616s)
+[2021.12.06-17.30.28:718][747]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.30.28:718][747]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2021.12.06-17.30.28:718][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.004182s)
+[2021.12.06-17.30.28:743][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.12.06-17.30.28:743][747]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.30.28:743][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.30.28:743][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.30.28:744][747]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.30.28:744][747]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.30.28:746][747]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.30.28:746][747]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.30.28:783][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.30.28:783][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.30.28:784][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.30.28:784][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.30.28:784][747]LogInit: FAudioDevice initialized.
+[2021.12.06-17.30.28:784][747]LogAudio: Display: Audio Device (ID: 10) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.30.28:855][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.28:856][747]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.30.28:859][747]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.30.28
+[2021.12.06-17.30.28:859][747]LogWorld: Bringing up level for play took: 0.001431
+[2021.12.06-17.30.28:860][747]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.12.06-17.30.28:895][747]PIE: Server logged in
+[2021.12.06-17.30.28:897][747]PIE: Play in editor total start time 0.186 seconds.
+[2021.12.06-17.30.31:009][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.31:009][850]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.31:009][850]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.30.31:012][850]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.30.31:014][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.31:021][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.30.31:034][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.31:057][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.30.31:057][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.31:059][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.31:101][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.06-17.30.31:131][851]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.12.06-17.30.33:029][964]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.30.33:038][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.30.33:038][964]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:30:33 PM)
+[2021.12.06-17.30.33:038][964]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.33:041][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002862s)
+[2021.12.06-17.30.33:042][964]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.30.33:043][964]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2021.12.06-17.30.33:043][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.004582s)
+[2021.12.06-17.30.33:068][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.12.06-17.30.33:068][964]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.30.33:069][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.30.33:069][964]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.30.33:069][964]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.30.33:071][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.30.33:071][964]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.30.33:107][964]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.30.33:108][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.30.33:108][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.30.33:108][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.30.33:108][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.30.33:108][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.30.33:108][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.30.33:125][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.30.33:125][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.30.33:125][964]LogInit: FAudioDevice initialized.
+[2021.12.06-17.30.33:125][964]LogAudio: Display: Audio Device (ID: 11) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.30.33:175][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.30.33:176][964]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.30.33:177][964]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.30.33
+[2021.12.06-17.30.33:178][964]LogWorld: Bringing up level for play took: 0.001053
+[2021.12.06-17.30.33:178][964]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.12.06-17.30.33:212][964]PIE: Server logged in
+[2021.12.06-17.30.33:214][964]PIE: Play in editor total start time 0.18 seconds.
+[2021.12.06-17.30.47:072][781]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.30.47:081][781]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.30.47:081][781]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.30.47:083][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.47:095][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.30.47:106][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.30.47:131][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.30.47:131][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.47:132][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.30.47:169][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.12.06-17.30.47:198][782]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.12.06-17.31.33:843][542]Cmd: DELETE
+[2021.12.06-17.31.33:843][542]Cmd: ACTOR DELETE
+[2021.12.06-17.31.33:847][542]LogEditorActor: Deleted Actor: Ambiente_C
+[2021.12.06-17.31.33:874][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.12.06-17.31.33:875][542]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.12.06-17.31.35:595][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.32.13:913][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.06-17.32.31:917][525]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGridFC2DA4A7414C867A231F05914D38F00D.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.32.31:941][525]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.32.31:941][525]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.32.32:216][540]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.32.32:332][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.12.06-17.32.55:346][870]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGridB5C0BA014297251AB97626B81E79B927.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.32.55:369][870]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.32.55:369][870]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.32.55:537][879]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.32.55:633][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.12.06-17.33.33:760][ 90]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGrid7A0668CE43741231670A30A7B9BCD5AE.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.33.33:779][ 90]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.33.33:779][ 90]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.33.34:445][130]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.33.34:531][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.12.06-17.33.44:722][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.33.44:730][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.33.44:730][700]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:33:44 PM)
+[2021.12.06-17.33.44:730][700]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.33.44:732][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002411s)
+[2021.12.06-17.33.44:733][700]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.33.44:734][700]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2021.12.06-17.33.44:734][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.003750s)
+[2021.12.06-17.33.44:764][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.12.06-17.33.44:765][700]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.33.44:765][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.33.44:765][700]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.33.44:765][700]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.33.44:768][700]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.33.44:768][700]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.33.44:806][700]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.33.44:806][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.33.44:806][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.33.44:806][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.33.44:806][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.33.44:806][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.33.44:807][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.33.44:819][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.33.44:820][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.33.44:820][700]LogInit: FAudioDevice initialized.
+[2021.12.06-17.33.44:820][700]LogAudio: Display: Audio Device (ID: 12) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.33.44:872][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.33.44:873][700]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.33.44:874][700]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.33.44
+[2021.12.06-17.33.44:874][700]LogWorld: Bringing up level for play took: 0.000547
+[2021.12.06-17.33.44:874][700]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.12.06-17.33.44:905][700]PIE: Server logged in
+[2021.12.06-17.33.44:912][700]PIE: Play in editor total start time 0.185 seconds.
+[2021.12.06-17.33.57:939][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.33.57:939][456]LogWorld: BeginTearingDown for /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.33.57:940][456]LogSlate: Window 'UmNovoComeco Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.06-17.33.57:944][456]LogWorld: UWorld::CleanupWorld for UmNovoComecoPequeno, bSessionEnded=true, bCleanupResources=true
+[2021.12.06-17.33.57:948][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.33.57:958][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.06-17.33.57:963][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.06-17.33.57:995][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.06-17.33.57:996][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.33.57:997][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.06-17.33.58:036][456]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.12.06-17.33.58:059][457]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.12.06-17.34.08:020][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.34.08:028][ 15]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente5F420801444CF2A099AD5BAB619575CC.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.34.08:054][ 15]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.34.08:054][ 15]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.34.08:590][ 47]BlueprintLog: New page: Compile Ambiente
+[2021.12.06-17.34.08:656][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.12.06-17.34.20:084][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.34.20:097][692]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/AmbienteBC448F7B4985F3E972B63BBFD4198F3C.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.34.20:118][692]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.34.20:118][692]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.34.20:460][713]BlueprintLog: New page: Compile Ambiente
+[2021.12.06-17.34.20:506][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.06-17.35.53:383][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.35.53:401][648]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente16707B274BE4B24534E66C84407EAC11.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.35.53:425][648]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.35.53:425][648]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.35.53:742][667]BlueprintLog: New page: Compile Ambiente
+[2021.12.06-17.35.53:790][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.12.06-17.36.00:122][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Blueprints/Ambiente" FILE="../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset" SILENT=true
+[2021.12.06-17.36.00:133][  9]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/Ambiente77D476AC40298B4235D9D0B2C32A022A.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/Ambiente.uasset'
+[2021.12.06-17.36.00:156][  9]AssetCheck: New page: Asset Save: Ambiente
+[2021.12.06-17.36.00:156][  9]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/Ambiente.Ambiente
+[2021.12.06-17.36.57:963][117]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGrid7D2B095E4C04F4833999608586A69B1F.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.36.57:990][117]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.36.57:990][117]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.36.58:607][154]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.36.58:707][154]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.12.06-17.37.38:076][273]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGrid5FDDC07D419CBFA350BA9489DA3D76D5.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.37.38:098][273]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.37.38:099][273]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.37.38:290][284]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.37.38:382][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.12.06-17.38.13:690][ 47]LogSavePackage: Moving '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Saved/PuzzleBlockGrid745AB92443781B21E40EE4B96DC53740.tmp' to '../../../../../../Users/lucas/Documents/GitHub/UmNovoComeco/UmNovoComeco/Content/PuzzleBP/Blueprints/PuzzleBlockGrid.uasset'
+[2021.12.06-17.38.13:713][ 47]AssetCheck: New page: Asset Save: PuzzleBlockGrid
+[2021.12.06-17.38.13:713][ 47]LogContentValidation: Display: Validating Blueprint /Game/PuzzleBP/Blueprints/PuzzleBlockGrid.PuzzleBlockGrid
+[2021.12.06-17.38.13:961][ 61]BlueprintLog: New page: Compile PuzzleBlockGrid
+[2021.12.06-17.38.14:054][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2021.12.06-17.38.18:905][322]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.06-17.38.18:914][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.06-17.38.18:914][322]PIE: New page: PIE session: UmNovoComecoPequeno (Dec 6, 2021, 12:38:18 PM)
+[2021.12.06-17.38.18:914][322]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno
+[2021.12.06-17.38.18:917][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002784s)
+[2021.12.06-17.38.18:918][322]LogAIModule: Creating AISystem for world UmNovoComecoPequeno
+[2021.12.06-17.38.18:918][322]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.12.06-17.38.18:918][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/UmNovoComecoPequeno.UmNovoComecoPequeno to /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno (0.003882s)
+[2021.12.06-17.38.18:951][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.12.06-17.38.18:953][322]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.06-17.38.18:953][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.06-17.38.18:953][322]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.06-17.38.18:953][322]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.06-17.38.18:957][322]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.06-17.38.18:957][322]LogAudioMixer: Display: 1: FrontRight
+[2021.12.06-17.38.18:995][322]LogAudioMixer: Display: Using Audio Device Auscultadores (Realtek(R) Audio)
+[2021.12.06-17.38.18:995][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.06-17.38.18:995][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.06-17.38.18:995][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.06-17.38.18:996][322]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.06-17.38.18:996][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.06-17.38.18:996][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.06-17.38.19:008][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.06-17.38.19:008][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.06-17.38.19:009][322]LogInit: FAudioDevice initialized.
+[2021.12.06-17.38.19:009][322]LogAudio: Display: Audio Device (ID: 13) registered with world 'UmNovoComecoPequeno'.
+[2021.12.06-17.38.19:056][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.06-17.38.19:056][322]LogLoad: Game class is 'PuzzleGameMode_C'
+[2021.12.06-17.38.19:057][322]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_UmNovoComecoPequeno.UmNovoComecoPequeno up for play (max tick rate 60) at 2021.12.06-14.38.19
+[2021.12.06-17.38.19:058][322]LogWorld: Bringing up level for play took: 0.000797
+[2021.12.06-17.38.19:058][322]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.12.06-17.38.19:065][322]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+Ambiente_C.Primavera
+PuzzleBlockGrid_C.ExecuteUbergraph_PuzzleBlockGrid
+PuzzleBlockGrid_C.Estações
+PuzzleBlockGrid_C.ExecuteUbergraph_PuzzleBlockGrid
+PuzzleBlockGrid_C.ReceiveBeginPlay
+
+[2021.12.06-17.38.20:993][322]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.926 s
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: === Handled ensure: ===
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: 
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: Ensure condition failed: NewObject->IsA(this->GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 903]
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: Type mismatch: Expected Ambiente_C, Found REINST_Ambiente_C_178
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: Stack: 
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff8ef4270e7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff8edd37c14 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f51e615e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f565d34a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387bbee1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387d06b0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff938776b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:993][322]LogOutputDevice: Error: [Callstack] 0x00007ff93879f7b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff938776b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff938776b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff938776b6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a1ef1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a22fd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a1704 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff938512604 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9387a0e63 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8eda3c435 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8eda0aff7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8eda1443c UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8eedeec42 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8ee165fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8eed9344e UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8ee187f8d UE4Editor-Engine.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f52fa1a5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f531cd6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f52faedd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f5338c42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f533c1d1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f533ba98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f4d98c38 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff8f56b50e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff7a62a9bc2 UE4Editor.exe!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff7a62c117c UE4Editor.exe!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff7a62c125a UE4Editor.exe!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff7a62d52bd UE4Editor.exe!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff7a62d7fea UE4Editor.exe!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9aee77034 KERNEL32.DLL!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: [Callstack] 0x00007ff9af382651 ntdll.dll!UnknownFunction []
+[2021.12.06-17.38.20:994][322]LogOutputDevice: Error: 
